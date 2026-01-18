@@ -174,25 +174,30 @@
 
      <br>
 
-   5. 滞在中の計画書および履歴書
+   5. 滞在中の計画書および履歴書<br>
       AIに以下のように作成してもらいました。
 
       <img width="909" height="416" alt="image" src="https://github.com/user-attachments/assets/b26ff7e6-011e-465c-821a-77f1ce205290" />
 
-   6. 申請者名義の日本もしくはフランスの銀行の残高証明書
-      楽天銀行で申請しました。
+      <br>
 
-   7. ワーキングホリデービザ宣誓書
-      PCで編集して署名箇所だけ手書き
+   6. 申請者名義の日本もしくはフランスの銀行の残高証明書<br>
+      楽天銀行で申請しました。<br>
+
+   7. ワーキングホリデービザ宣誓書<br>
+      PCで編集して署名箇所だけ手書き<br>
       <img width="446" height="675" alt="スクリーンショット 2026-01-18 16 36 36" src="https://github.com/user-attachments/assets/dea9bfe5-5416-454a-9873-90c4139fab88" />
+      <br>
 
-   8. 健康診断書
+   8. 健康診断書<br>
       自宅付近の内科に電話で事情を説明して証明書を書いてもらえることに
+      <br>
 
-   9. 海外旅行保険加入証明書
-      [グローブパートナー](https://www.acs-ami.com/jp/globe-jp.php)で540ユーロで契約。おそらくこれが最安。
+   9. 海外旅行保険加入証明書<br>
+      [グローブパートナー](https://www.acs-ami.com/jp/globe-jp.php)で540ユーロで契約。おそらくこれが最安。<br>
       <img width="1228" height="578" alt="image" src="https://github.com/user-attachments/assets/01c08ca6-9fa5-48cb-b469-2fdfab1190f0" />
+      <br>
 
-   10.  レターパックプラス（赤）
+   10.  レターパックプラス（赤）<br>
 
 
