@@ -172,6 +172,8 @@
 
      <img width="517" height="369" alt="image" src="https://github.com/user-attachments/assets/c3545496-f8f8-473e-aa58-bd7e577ba49e" />
 
+     <br>
+
    5. 滞在中の計画書および履歴書
       AIに以下のように作成してもらいました。
 
