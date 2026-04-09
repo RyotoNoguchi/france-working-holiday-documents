@@ -34,7 +34,7 @@
       2. Travel document: Ordinary passport
       3. Travel document number: {パスポート番号}
       4. Date of issue: {パスポート発行日}
-      5. Expiry date: {パスポート期限日}large_category = LargeCategory.find_by(slug: 'alcohol')
+      5. Expiry date: {パスポート期限日}
         <img width="1220" height="491" alt="Image" src="https://github.com/user-attachments/assets/fa2ba508-10ce-46a4-92fd-551ed24cf57f" />
    4. Your plans
       1. Your plans: Other
